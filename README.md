@@ -17,7 +17,8 @@ This project implements a **machine learning–based intrusion detection system 
 - Logistic Regression  
 - Decision Tree  
 - Random Forest  
-- Support Vector Machine (SVM)  
+- Support Vector Machine (SVM)
+- PCA Principal Component Analysis 
 - Feature scaling and preprocessing  
 
 ---
